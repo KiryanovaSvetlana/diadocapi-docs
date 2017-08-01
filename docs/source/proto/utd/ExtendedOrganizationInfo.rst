@@ -4,7 +4,7 @@ ExtendedOrganizationInfo
 .. code-block:: protobuf
     :emphasize-lines: 1-22
 
-    message ExtendedOrganizationInfo {
+    message ExtendedOrganizationInfo {  
         optional string BoxId = 1;
         optional string OrgName = 2;
         optional string Inn = 3; 
